@@ -1,3 +1,5 @@
+""" Scrapes U.S. Congress and Senate video footage  from CSpan. """
+
 from robobrowser import RoboBrowser as rb
 import json
 from urllib.request import urlretrieve
