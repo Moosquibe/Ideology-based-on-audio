@@ -4,6 +4,13 @@ from robobrowser import RoboBrowser as rb
 import json
 from urllib.request import urlretrieve
 import os.path
+import pickle
+
+if os.path.exists("visited_links.txt"):
+  with open("visited_links.txt", "rb") as fp:   # Unpickling
+    visited_links = pickle.load(fp)
+else:
+  visited_links = []
 
 urls = [ #first is senate, then house
   'https://www.c-span.org/search/?sdate=&edate=&searchtype=Videos&sort=Most+Recent+Airing&text=0&sponsorid%5B%5D=2102&show100=',
@@ -18,14 +25,19 @@ for url in urls:
   print('URL: {}'.format(url))
   page = 0
   missing = []
+  errors = []
   while True:
     browser.open(url + '&ajax&page={}'.format(page))
     if not browser.parsed: break # no more pages to be loaded
     print('working on page {}'.format(page))
     links = browser.get_links()
     video_links = [link for link in links if link.get('class') and 'title' in link.get('class')]
+    with open("visited_links.txt", "wb") as fp:   #Pickling
+      pickle.dump(visited_links, fp)
 
     for link in video_links:
+      if link in visited_links:
+        continue;
       browser.follow_link(link)
       title = browser.parsed.title.string.split('|')[0].strip()
       tag = browser.find('div',id='flagVideo')
@@ -38,15 +50,23 @@ for url in urls:
       try:
       	file_link = parsed['video']['files'][0]['qualities'][-1]['file']['#text'] # lower quality video
       except KeyError:
-      	missing.append(title)
+      	missing.append([title])
       video_name = '{}.{}.mp4'.format(title,progid)
       print(video_name)
       if not os.path.exists(video_name):
-      	urlretrieve(file_link,video_name)
+        try:
+          urlretrieve(file_link,video_name)
+        except Exception:
+          errors.append([title, file_link])
+      visited_links.append(link)
     page += 1
 
 with open(missing.log):
 	for missed in missing:
-		write(missing+"\n")
+		write(missing + "\n")
+
+with open(errors.log):
+  for error in errors:
+    write(errors + "\n")
 
 
