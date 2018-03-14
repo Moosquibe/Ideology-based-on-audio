@@ -7,8 +7,8 @@ import os.path
 import pickle
 
 if os.path.exists("visited_links.txt"):
-  with open("visited_links.txt", "rb") as fp:   # Unpickling
-    visited_links = pickle.load(fp)
+  with open("visited_links.txt", "r") as f:   # Unpickling
+    visited_links = f.read().splitlines()
 else:
   visited_links = []
 
@@ -32,21 +32,22 @@ for url in urls:
     print('working on page {}'.format(page))
     links = browser.get_links()
     video_links = [link for link in links if link.get('class') and 'title' in link.get('class')]
-    with open("visited_links.txt", "wb") as fp:   #Pickling
-      pickle.dump(visited_links, fp)
-
+      
     for link in video_links:
-      if link in visited_links:
-        continue;
       browser.follow_link(link)
       title = browser.parsed.title.string.split('|')[0].strip()
+      if title in visited_links:
+        print("{} found!".format(title))
+        continue;
       tag = browser.find('div',id='flagVideo')
       progid = tag['rel'].split('=')[1]
       alink = ajax_link(progid)
+
       browser.open(alink)
+      # file_link = parsed['video']['files'][0]['path']['#text']
       data = browser.parsed.string
       parsed = json.loads(data)
-      # file_link = parsed['video']['files'][0]['path']['#text']
+
       try:
       	file_link = parsed['video']['files'][0]['qualities'][-1]['file']['#text'] # lower quality video
       except KeyError:
@@ -58,7 +59,10 @@ for url in urls:
           urlretrieve(file_link,video_name)
         except Exception:
           errors.append([title, file_link])
-      visited_links.append(link)
+      visited_links.append(title)
+    with open("visited_links.txt", "w") as f:
+      for item in visited_links:
+        f.write("{:s}\n".format(item))
     page += 1
 
 with open(missing.log):
