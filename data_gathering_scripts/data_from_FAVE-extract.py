@@ -5,9 +5,10 @@
 import os
 import io
 
-TEXTGRIDS_FOLDERS = "/Users/thomasl/Documents/MLProject/FAVE-EXTRACT/"
-FORMANTS_FOLDERS = "/Users/thomasl/Documents/MLProject/FAVE-FORMANTS/"
-RESULT_FOLDERS = "/Users/thomasl/Documents/MLProject/RESULTS/"
+# TEXTGRIDS_FOLDERS = "/Users/thomasl/Documents/MLProject/FAVE-EXTRACT/"
+TEXTGRIDS_FOLDERS = "/data/Dropbox/Data/Supreme_Court_Audio/Oyez_vowels/FAVE/oyez_full/"
+FORMANTS_FOLDERS = "/data/Dropbox/Data/Supreme_Court_Audio/Oyez_vowels/FAVE/FAVE-extract/"
+RESULT_FOLDERS = "/home/tleble/RESULTS/"
 
 
 #######
@@ -65,6 +66,8 @@ def collapse_line(line):
 
 
 if __name__ == "__main__":
+    os.chdir(RESULT_FOLDERS)
+    output = open("wordssyllablesformants.txt", "a")
     os.chdir(TEXTGRIDS_FOLDERS)
     years = os.listdir() ### List all the years
     for year in (y for y in years if y.isnumeric()):
@@ -86,8 +89,8 @@ if __name__ == "__main__":
                     filetotreat = open(name_file)
                 except FileNotFoundError:
                     break
-                os.chdir(RESULT_FOLDERS+year)
-                output = open("result_"+name_file, 'a')
+                # os.chdir(RESULT_FOLDERS+year)
+                # output = open("result_"+name_file, 'a')
                 treat_file(filetotreat, output, speaker) #### Treating the formant file
-                output.close()
                 filetotreat.close()
+    output.close()
