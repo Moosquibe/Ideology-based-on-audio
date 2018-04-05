@@ -2,7 +2,7 @@
 file_people = open("listpeople.txt", 'r')
 list_people = file_people.readlines()
 
-file_donations = open("contribDB_2008.csv", 'r')
+file_donations = open("/Users/thomasl/Desktop/contribDB_2008.csv", 'r')
 
 log = open('log.txt', 'a')
 speakers = []
@@ -29,18 +29,21 @@ for i in range(25000000):
                 last_name = name_components[0].replace('"', '')
                 first_names = (name_components[1].split())
                 first_name = first_names[0].replace('"', '')
-                party = donation.split(',')[-22]
-                if party== '"100"':
-                    ideo = "DEM"
-                elif party== '"200"':
-                    ideo = "REP"
-                elif party == '"328"':
-                    ideo = "IND"
-                else:
-                    ideo = "UNDEF"
+                #party = donation.split(',')[-22]
+                #if party== '"100"':
+                #    ideo = "DEM"
+                #elif party== '"200"':
+                #    ideo = "REP"
+                #elif party == '"328"':
+                #    ideo = "IND"
+                #else:
+                #    ideo = "UNDEF"
                 for speaker in speakers:
-                    if speaker['FN'] == first_name and speaker['LN'] == last_name:
-                        speaker['ideology'].append(ideo)
+                    if speaker['FN'].lower() == first_name and speaker['LN'].lower() == last_name:
+                        name = speaker['FN']+"_"+speaker['LN']
+                        filetemp=open("ideologyforpeople/"+name+".txt", "a")
+                        filetemp.write(donation+"\n")
+                        filetemp.close()
 
 for speaker in speakers:
     name = speaker['FN']+" "+speaker['LN']

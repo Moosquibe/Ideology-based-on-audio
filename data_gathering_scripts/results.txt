@@ -1,0 +1,882 @@
+aaron weisman is undefined 
+aaron panner is 0.0 +
+aj kramer is undefined 
+alan gura is undefined 
+alexander ross is undefined 
+allison zieve is 0.0 +
+amanda leiter is 0.0 +
+amy howe is 0.014492753623188406 +
+andrew pincus is 0.0 +
+andrew oldham is undefined 
+anita alvarez is 1.0 +
+ann o'connell is undefined 
+ann oconnell is 0.0 +
+anthony yang is undefined 
+anthony kennedy is undefined 
+anthony falzone is undefined 
+anthony yang is undefined 
+antonin scalia is undefined 
+arthur fergenson is 1.0 +
+b restuccia is undefined 
+barbara underwood is undefined 
+barry barnett is 0.006646525679758308 +
+beau brindley is undefined 
+benjamin mizer is undefined 
+benjamin horwich is undefined 
+benna solomon is undefined 
+bert rein is 0.6153846153846154 +
+bill bensinger is undefined 
+bradley phillips is 0.0 +
+brian lauten is 0.0 +
+brian carroll is undefined 
+bridget asay is undefined 
+bryan gowdy is undefined 
+bryan stevenson is undefined 
+candace cain is undefined 
+carla sigler is undefined 
+carolyn kubitschek is 0.0 +
+carter phillips is 0.0 +
+celia davis is undefined 
+chad readler is 1.0 +
+charles rothfeld is 0.0 +
+charles cooper is 0.5555555555555556 +
+charles sims is 0.0 +
+chris koster is undefined 
+christopher hansen is undefined 
+christopher browning is 0.0 +
+christopher paolella is 1.0 +
+christopher landau is 1.0 +
+christopher burke is 0.0 +
+clifford sloan is 0.0 +
+collyn peddie is 0.08928571428571429 +
+conal doyle is undefined 
+corey maze is undefined 
+craig goldblatt is 0.0 +
+curtis gannon is undefined 
+d safriet is undefined 
+damien schiff is undefined 
+dan johnson is 1.0 +
+dan himmelfarb is undefined 
+dan stormer is undefined 
+daniel domenico is undefined 
+daniel ruttenberg is undefined 
+daniel lerman is undefined 
+daniel ortiz is 0.4893203883495146 +
+daryl joseffer is undefined 
+david lane is 0.4 +
+david moran is 0.0 +
+david boies is 0.41763134461264473 +
+david frederick is 0.0 +
+david mills is 0.0 +
+david neff is 0.0 +
+david oneil is 0.0 +
+david sterling is 0.0 +
+david bowker is 0.0 +
+deanne maynard is 0.0 +
+debo adegbile is 0.0 +
+deborah merritt is undefined 
+deborah brueckheimer is undefined 
+deepak gupta is 0.0 +
+donald verrilli is 0.0 +
+donald specter is undefined 
+donna andrieu is undefined 
+douglas gansler is undefined 
+douglas hallwarddriemeier is undefined 
+douglas laycock is undefined 
+dustin mcdaniel is 0.0 +
+earle getchell is undefined 
+edwin kneedler is undefined 
+elaine goldenberg is 0.0 +
+elena kagan is undefined 
+elizabeth jacobs is 0.0 +
+emmett queener is undefined 
+eric katz is undefined 
+eric miller is 0.0 +
+eric feigin is undefined 
+eric schnapper is undefined 
+evan young is 1.0 +
+g brunstad is undefined 
+geoffrey klineberg is 0.0 +
+george conway is 1.0 +
+ginger anders is 0.0 +
+ginger anders is 0.0 +
+ginger anders is 0.0 +
+glen nager is 1.0 +
+glen gifford is undefined 
+gregg levy is 0.0 +
+gregory castanias is undefined 
+gregory beck is undefined 
+gregory garre is undefined 
+harvey schwartz is undefined 
+herald fahringer is undefined 
+ian silverberg is undefined 
+j cooney is undefined 
+j jakes is undefined 
+j ballenger is undefined 
+jaclyn frankfurt is undefined 
+james feldman is 0.0 +
+james jr is undefined 
+james hurst is 0.0 +
+james kaster is undefined 
+james bilderback is undefined 
+james dabney is 0.0 +
+jamesa drake is undefined 
+jane webre is 0.1694915254237288 +
+jason hawkins is 0.0 +
+jay lefkowitz is 1.0 +
+jeffrey lamken is 0.8113207547169812 +
+jeffrey wall is 0.0 +
+jeffrey fisher is 0.0 +
+jeffrey tilden is 1.0 +
+jeffrey weinberger is undefined 
+jeffrey fisher is 0.0 +
+jeffrey bucholtz is undefined 
+jeremiah collins is undefined 
+john payton is undefined 
+john howard is 0.7726465364120781 +
+john jones is 0.05112316034082107 +
+john neiman is 1.0 +
+john bash is 1.0 +
+john farraher is undefined 
+john maddrey is undefined 
+john preis is undefined 
+john roberts is 0.2482005460412013 +
+john bursch is 1.0 +
+john koester is undefined 
+john elwood is 1.0 +
+john stevens is 0.2734839476813318 +
+john ates is 0.0 +
+john kroger is 0.0 +
+jonathan willens is 0.0 +
+jonathan libby is 0.0 +
+jonathan mitchell is 0.0 +
+jonathan franklin is undefined 
+jose garza is 0.0 +
+joseph sellers is 0.0 +
+joseph guerra is 0.0 +
+joseph palmore is undefined 
+joseph jacquot is undefined 
+joshua farley is undefined 
+joshua rosenkranz is undefined 
+joshua gillelan is undefined 
+judith mizner is undefined 
+judith resnik is 0.0 +
+kannon shanmugam is undefined 
+karl hays is 0.0 +
+katherine winfree is 0.0 +
+kathleen lord is undefined 
+kathleen sullivan is 0.0 +
+kenneth mogill is 0.0 +
+kent cattani is undefined 
+kent richland is undefined 
+kerry scanlon is undefined 
+kevin russell is 0.0 +
+laura ferguson is undefined 
+lawrence robbins is 0.0 +
+leigh latherow is undefined 
+leondra kruger is undefined 
+lewis liman is 0.0 +
+lisa freeland is undefined 
+lisa call is undefined 
+lisa blatt is 0.0 +
+m fuentes is undefined 
+madeleine wanslee is undefined 
+malcolm stewart is undefined 
+margie phelps is undefined 
+mark perry is 0.06493506493506493 +
+mark fleming is 0.0 +
+mark cohen is 0.32405294386125055 +
+mark walters is 0.0 +
+mark bendure is 0.0 +
+mark hurt is 1.0 +
+mark stancil is undefined 
+martin buchanan is undefined 
+mary ogrady is undefined 
+matthew lawry is undefined 
+matthew roberts is 1.0 +
+matthew nelson is 1.0 +
+matthew wessler is undefined 
+meir feder is 0.0 +
+melissa sherry is undefined 
+michael delaney is 0.0 +
+michael mcgill is undefined 
+michael manely is 0.0 +
+michael benza is undefined 
+michael meehan is 0.9830028328611898 +
+michael kellogg is 1.0 +
+michael foreman is 0.0 +
+michael bigelow is undefined 
+michael dreeben is undefined 
+michael fried is 0.0 +
+michael mcconnell is 0.8648648648648649 +
+miguel estrada is 1.0 +
+miguel estrada is 1.0 +
+nathan lewin is 1.0 +
+neal katyal is undefined 
+neal katyal is undefined 
+nicholas rosenkranz is 1.0 +
+nicole saharsky is undefined 
+pamela karlan is 0.0 +
+patricia gilley is undefined 
+patricia millett is 0.0 +
+paul bender is 1.0 +
+paul castiglione is undefined 
+paul clement is undefined 
+paul hoffman is 0.3285839993249678 +
+paul beard is undefined 
+paul smith is 0.14568880079286423 +
+paul wolfson is 0.0 +
+paula bickett is undefined 
+peter keisler is undefined 
+peter eliasberg is 0.0 +
+peter stris is undefined 
+petitioner a is undefined 
+petitioner d is undefined 
+pratik shah is undefined 
+r cruz is undefined 
+randall allen is 0.0 +
+raymond cardozo is undefined 
+reuben cahn is 0.0 +
+richard bourke is undefined 
+richard blumenthal is 0.0 +
+richard cordray is undefined 
+richard friedman is 0.33150384193194293 +
+richard guerriero is undefined 
+richard bress is 0.0 +
+rick schoenfield is undefined 
+robert long is 0.6013091341862541 +
+robert bartels is 0.0 +
+robert friedman is 0.0797365227942451 +
+robert yablon is undefined 
+robert glazier is undefined 
+robert fishman is 0.0 +
+roberta kaplan is 0.0 +
+ronald eisenberg is undefined 
+ronald mann is undefined 
+roy davis is 0.0 +
+roy englert is undefined 
+ruth ginsburg is undefined 
+s duncan is undefined 
+samuel alito is undefined 
+sarah harrington is 0.0 +
+scott makar is undefined 
+scott nelson is 0.031373986071205145 +
+sean summers is undefined 
+sean kennedy is 0.0 +
+sean gallagher is 0.0 +
+seth galanter is 0.0 +
+seth waxman is 0.0 +
+shay dvoretzky is undefined 
+sheldon richie is undefined 
+sonia sotomayor is undefined 
+sri srinivasan is undefined 
+steffen johnson is 1.0 +
+stephanos bibas is undefined 
+stephen kinnaird is 0.0 +
+stephen fitch is 1.0 +
+stephen gordon is 0.0 +
+stephen eberhardt is undefined 
+stephen breyer is undefined 
+stephen cullen is undefined 
+stephen shapiro is 0.8834117361249145 +
+stephen bruce is 0.0 +
+stephen mcallister is undefined 
+stephen mccullough is undefined 
+stephen sanders is 0.6 +
+steven reiss is 0.0 +
+steven gordon is 0.0 +
+steven wells is 0.0 +
+steven shapiro is 0.0 +
+steven rosenthal is 0.27213822894168466 +
+steven wax is undefined 
+susan smith is -0.006429565714983781 +
+susan freeman is 0.0 +
+theodore olson is 1.0 +
+theodore boutrous is 0.0 +
+thomas dubbs is 0.10298102981029811 +
+thomas goldstein is 0.0 +
+thomas horne is 1.0 +
+thomas hungar is 1.0 +
+alma jackson is undefined 
+thomas geoghegan is undefined 
+thomas whalen is undefined 
+thomas michel is 0.9090909090909091 +
+thomas byrne is 0.0 +
+thomas hefferon is 0.0 +
+thomas peters is 0.0 +
+timothy baughman is undefined 
+timothy bishop is 1.0 +
+timothy coates is undefined 
+toby heytens is 0.0 +
+todd scher is undefined 
+todd schneider is 0.12239046053781866 +
+todd marshall is 0.5555555555555556 +
+unidentified justice is undefined 
+valerie newman is undefined 
+vicki jackson is 0.0 +
+walter dellinger is 0.0 +
+ward campbell is undefined 
+warren wolf is 0.0 +
+william dunnegan is undefined 
+william young is 0.7024536980831749 +
+william jay is undefined 
+william maurer is undefined 
+wm long is undefined 
+zackery morazzini is undefined 
+a goldgar is undefined 
+a blankingship is undefined 
+adam wolf is undefined 
+adina rosenbaum is undefined 
+alan morrison is 0.0 +
+alan untereiner is 0.0 +
+alan freedman is 0.0 +
+alexander reinert is undefined 
+alexander reichert is 0.0 +
+allen lichtenstein is undefined 
+amy howe is 0.014492753623188406 +
+amy zapp is 1.0 +
+andrea spillars is undefined 
+andrea cortina is undefined 
+andrew herman is undefined 
+andrew harakas is undefined 
+andrew pincus is 0.0 +
+andrew rossman is 0.0 +
+andrew frey is 0.0 +
+andrew birrell is undefined 
+andrew zwerling is undefined 
+ann g is undefined 
+anthony kennedy is undefined 
+anthony yang is undefined 
+antonin scalia is undefined 
+arthur bryant is undefined 
+arthur miller is undefined 
+barbara mcdowell is 0.0 +
+barbara underwood is undefined 
+barry ostrager is 0.0 +
+benjamin mizer is undefined 
+benjamin coleman is undefined 
+benna solomon is undefined 
+bernard restuccia is undefined 
+bert deixler is 0.0 +
+beth brinkmann is 0.0 +
+beverly downing is undefined 
+beverly ness is undefined 
+billy nolas is undefined 
+bradford colbert is undefined 
+brent newton is undefined 
+brian barov is undefined 
+brian reichel is undefined 
+brian shiffrin is undefined 
+brian wolfman is 0.0 +
+bruce smith is 0.4166666666666667 +
+bruce ennis is 1.0 +
+bruce ennis is 1.0 +
+bruce terris is 0.0 +
+bryan stevenson is undefined 
+c trower is 0.75 +
+c benner is undefined 
+c troutman is undefined 
+caitlin halligan is 0.0 +
+carl thurman is undefined 
+carol jorstad is undefined 
+carolyn snurkowski is undefined 
+carter phillips is 0.0 +
+catherine stetson is 0.0 +
+catherine smith is 0.18803418803418803 +
+charles rothfeld is 0.0 +
+charles wright is 0.9655172413793104 +
+charles condon is 1.0 +
+charles sevilla is undefined 
+charles frazier is undefined 
+cheryl nield is undefined 
+christine hogan is undefined 
+christine dahl is undefined 
+christopher wray is 1.0 +
+christopher browning is 0.0 +
+christopher meade is 0.0449438202247191 +
+christopher lovell is undefined 
+christopher kise is undefined 
+christopher brasher is undefined 
+clarence thomas is undefined 
+clay smith is 0.10638297872340426 +
+clifton hutchinson is 1.0 +
+clint bolick is 1.0 +
+colli mckiever is undefined 
+connie lensing is 0.0 +
+conrad hafen is undefined 
+corbett gordon is 0.0 +
+corinne beckwith is 0.0 +
+courtland reichman is 0.0 +
+craig stewart is 0.13931457230426303 +
+craig crawford is undefined 
+craig jones is 0.0 +
+curtis gannon is undefined 
+cynthia hyndman is undefined 
+d la is undefined 
+dan himmelfarb is undefined 
+dana hansen is undefined 
+daniel small is 0.0 +
+daniel bromberg is 0.16501650165016502 +
+daniel traylor is undefined 
+danielle spinelli is 0.0 +
+daryl brand is undefined 
+daryl joseffer is undefined 
+david friedman is 0.26713124274099886 +
+david furlow is 0.9495798319327731 +
+david goldberger is undefined 
+david moran is 0.0 +
+david strauss is 0.1314658175727729 +
+david kaplan is 0.0922472632543174 +
+david salmons is undefined 
+david frederick is 0.0 +
+david mattax is undefined 
+david todd is 0.04165824822900372 +
+david lawrence is 0.0 +
+david souter is undefined 
+david burman is 0.0 +
+david bederman is 0.0 +
+david mccolgin is undefined 
+david rose is 0.0 +
+david lew is undefined 
+david porter is 0.6538461538461539 +
+david smith is 0.08769043184125656 +
+david oneil is 0.0 +
+david gauldin is undefined 
+david haberbush is undefined 
+david mccreadie is undefined 
+david robbins is 0.0 +
+david wycoff is undefined 
+dean gits is undefined 
+deanne maynard is 0.0 +
+debo adegbile is 0.0 +
+deborah labelle is undefined 
+deborah chuang is 0.0 +
+dennis egan is 0.0 +
+dennis riordan is 0.0 +
+dexter lehtinen is 1.0 +
+diana gustin is undefined 
+donald ayer is 0.0 +
+donald verrilli is 0.0 +
+donald verrilli is 0.0 +
+donald de is undefined 
+donald donovan is 0.16317991631799164 +
+donald ramsell is undefined 
+donna domonkos is undefined 
+douglas driemeier is undefined 
+douglas mertz is undefined 
+douglas cole is 1.0 +
+douglas oelschlaeger is undefined 
+drew days is undefined 
+e blanchard is undefined 
+e rosenkranz is undefined 
+edward dumont is 0.0 +
+edward tillinghast is undefined 
+edward marshall is 0.0 +
+edwin kneedler is undefined 
+elizabeth kertscher is 0.0 +
+eric multhaup is undefined 
+eric miller is 0.0 +
+eric zagrans is 0.0 +
+eric albritton is 0.2911392405063291 +
+eric schnapper is undefined 
+ernest lannet is undefined 
+ernest gellhorn is undefined 
+erwin chemerinsky is undefined 
+eugene stearns is 0.0 +
+evan tager is undefined 
+eve gartner is undefined 
+frances grunder is undefined 
+francis young is undefined 
+francis ainsa is 0.0 +
+frank jr is undefined 
+frank dunham is undefined 
+franny forsman is 0.0 +
+frederick schwarz is 0.0 +
+frederick connelly is undefined 
+g brunstad is undefined 
+g blakey is undefined 
+gary feinerman is 0.0 +
+gary feinerman is 0.0 +
+gen w is undefined 
+gen p is undefined 
+gen six is undefined 
+gen b is undefined 
+gena bunn is undefined 
+gene schaerr is 1.0 +
+george kendall is 0.0 +
+george chanos is undefined 
+george young is 0.6333333333333333 +
+george lemieux is undefined 
+george waters is undefined 
+gj sullivan is undefined 
+glen nager is 1.0 +
+glenn rhodes is undefined 
+greg abbott is 1.0 +
+gregory karle is undefined 
+gregory castanias is undefined 
+gregory garre is undefined 
+gregory katsas is undefined 
+gregory oduden is undefined 
+gregory coleman is 0.9777777777777777 +
+h farr is undefined 
+harold becker is undefined 
+harvey grossman is undefined 
+ira sacks is 0.0 +
+irving gornstein is 0.0 +
+j nathan is undefined 
+j delone is undefined 
+j oconnell is undefined 
+j richards is undefined 
+j malley is undefined 
+jack campbell is 0.0 +
+jacob cohn is 0.0 +
+james feldman is 0.0 +
+james holifield is undefined 
+james comey is undefined 
+james koch is undefined 
+james jr is undefined 
+james backstrom is undefined 
+james linger is undefined 
+james leven is undefined 
+james deano is 0.0 +
+james hood is 0.0 +
+james petro is 1.0 +
+james ginzkey is undefined 
+james carty is 0.0 +
+james layton is undefined 
+james young is 0.7398373983739838 +
+james colbert is undefined 
+james dabney is 0.0 +
+janet metcalf is undefined 
+janice bergmann is undefined 
+jason murtagh is undefined 
+jay sekulow is 1.0 +
+jay geck is undefined 
+jay sekulow is 1.0 +
+jay starkman is undefined 
+jay jorgensen is undefined 
+jean andre is undefined 
+jean manning is 0.0 +
+jeffrey lamken is 0.8113207547169812 +
+jeffrey keyes is undefined 
+jeffrey ehrlich is 0.0 +
+jeffrey fisher is 0.0 +
+jeffrey sewell is undefined 
+jeffrey laurence is undefined 
+jeffrey minear is undefined 
+jeffrey sutton is 0.0 +
+jennifer smith is 0.061766904057467924 +
+jere krakoff is undefined 
+jeremiah collins is undefined 
+jeremy friedlander is 0.0 +
+jerome muys is undefined 
+jill wichlens is undefined 
+john draper is 0.0 +
+john eastman is 0.08928571428571429 +
+john cornyn is undefined 
+john cline is 0.5 +
+john kester is 1.0 +
+john roberts is 0.2482005460412013 +
+john knorr is undefined 
+john blume is 0.0 +
+john weston is 0.0 +
+john arnold is 1.0 +
+john gibbons is 0.32142857142857145 +
+john howley is undefined 
+john iii is 0.0 +
+john economidy is 0.0 +
+john elwood is 1.0 +
+john krill is 0.9773123909249564 +
+john mcdonald is 0.2608695652173913 +
+john todd is 0.0 +
+john stevens is 0.2734839476813318 +
+john lewis is 0.21671826625386997 +
+john wimmer is undefined 
+john mills is 0.0 +
+john nields is 0.0 +
+jonathan nuechterlein is 0.0 +
+jonathan cole is 0.0 +
+jonathan marcus is 0.5025125628140703 +
+jonathan franklin is undefined 
+jordan steiker is 0.0 +
+jordan lorence is undefined 
+joseph oneill is 1.0 +
+joseph schleimer is 1.0 +
+joseph mattingly is 0.0 +
+joseph parkhurst is 0.0 +
+joseph guerra is 0.0 +
+joseph sollersiii is undefined 
+jules lobel is undefined 
+julie goldscheid is 0.0 +
+juliet clark is undefined 
+kannon shanmugam is undefined 
+karl koch is undefined 
+kathleen sullivan is 0.0 +
+kay hodge is undefined 
+ken murray is undefined 
+kenneth thomas is undefined 
+kenneth rosenstein is undefined 
+kenneth flaxman is undefined 
+kenneth starr is 1.0 +
+kent jones is 1.0 +
+kent richland is undefined 
+kevin newsom is 1.0 +
+kevin culligan is 0.0 +
+kevin russell is 0.0 +
+kevin schad is undefined 
+kimball anderson is 0.0 +
+lars isaacson is undefined 
+laura brill is 0.0 +
+laurence tribe is 0.0 +
+laurence gold is undefined 
+lawrence brown is 0.7948717948717948 +
+lawrence long is undefined 
+lawrence wallace is undefined 
+lawrence rosenthal is undefined 
+lee boothby is undefined 
+leigh manasevit is undefined 
+leonard gerson is undefined 
+leonard simon is 0.0 +
+leonard koerner is undefined 
+leondra kruger is undefined 
+linda thompson is undefined 
+linda olivieri is undefined 
+lisa blatt is 0.0 +
+lisa schertler is undefined 
+lisa bassis is undefined 
+lisa madigan is 0.0 +
+lisa blatt is 0.0 +
+lisa gochman is undefined 
+lisa blatt is 0.0 +
+lloyd miller is 0.0 +
+louis rovelli is undefined 
+m fuentes is undefined 
+m baker is undefined 
+malcolm wheeler is 0.0 +
+malcolm stewart is undefined 
+marc fernich is 1.0 +
+margaret katze is undefined 
+maria vullo is 0.0 +
+marilyn burkhardt is 0.0 +
+mark hurt is 1.0 +
+mark johnson is 0.15878239407651173 +
+mark olson is 0.0 +
+mark rosenbaum is 0.0 +
+mark levy is 0.0 +
+mark bennett is 0.32232178383989724 +
+mark horwitz is undefined 
+mark lippman is undefined 
+mark biggerman is undefined 
+martha coakley is 0.0 +
+mary bonner is undefined 
+mary williams is 0.0 +
+mason morisset is undefined 
+mathew staver is 1.0 +
+matt kenna is undefined 
+matthew roberts is 1.0 +
+matthew edge is undefined 
+matthew chan is undefined 
+matthew shors is 0.0 +
+matthew freedus is undefined 
+matthew wright is undefined 
+maureen hart is 1.0 +
+maureen mahoney is 0.9789029535864979 +
+mauricio flores is undefined 
+michael frick is undefined 
+michael cardozo is 0.0 +
+michael carvin is undefined 
+michael newdow is undefined 
+michael scodro is undefined 
+michael mukasey is 1.0 +
+michael walton is 0.0 +
+michael haglund is 0.12195121951219512 +
+michael mclachlan is 0.0 +
+michael moore is 0.03027055987141709 +
+michael rosman is undefined 
+michael gordon is 0.3442622950819672 +
+michael gottesman is 0.0 +
+michael gottesman is 0.0 +
+michael cahill is undefined 
+michael kellogg is 1.0 +
+michael wolensky is undefined 
+michael rosenbaum is 0.0 +
+michael machat is undefined 
+michael fleming is 0.375749996994 +
+michael dreeben is undefined 
+michael smith is 0.23834158779973522 +
+michael leibig is undefined 
+michael gross is 0.1329639889196676 +
+michael hawkins is 0.14285714285714285 +
+michael mcconnell is 0.8648648648648649 +
+miguel estrada is 1.0 +
+narda pierce is 0.0 +
+neal katyal is undefined 
+neal katyal is undefined 
+nicole saharsky is undefined 
+owen armstrong is undefined 
+pamela karlan is 0.0 +
+patricia millett is 0.0 +
+patrick irvine is undefined 
+patrick coughlin is 0.008 +
+paul banker is undefined 
+paul strandness is undefined 
+paul boas is 0.5 +
+paul clement is undefined 
+paul utrecht is undefined 
+paul gardephe is undefined 
+paul orfanedes is undefined 
+paul hoffman is 0.3285839993249678 +
+paul de is undefined 
+paul rashkind is 0.0 +
+paul roadarmel is undefined 
+paul smith is 0.14568880079286423 +
+paul q is undefined 
+paul rehurek is undefined 
+paul salvatore is 0.0 +
+paul stern is undefined 
+paul cappuccio is undefined 
+paul cane is undefined 
+peter gold is undefined 
+peter brann is 0.0 +
+peter rubin is 0.0 +
+peter neufeld is undefined 
+peter stirba is 1.0 +
+philip jones is undefined 
+philip savrin is undefined 
+pratik shah is undefined 
+priscilla smith is undefined 
+quin denvir is 0.0 +
+r cruz is undefined 
+r pate is undefined 
+r hart is undefined 
+r phillips is 0.0 +
+r cruz is undefined 
+ralph meczyk is 0.0 +
+randall roske is undefined 
+randy barnett is undefined 
+rebecca harper is 0.0 +
+richard mescon is 0.0 +
+richard salzman is 0.0 +
+richard kendall is 0.0 +
+richard bernstein is 0.08214676889375684 +
+richard taranto is undefined 
+richard diaz is 0.0 +
+richard lazarus is undefined 
+richard cooper is 0.0 +
+richard faulk is 0.9166666666666666 +
+richard hogan is undefined 
+robert long is 0.6013091341862541 +
+robert swift is 0.033444816053511704 +
+robert owen is 1.0 +
+robert corn-revere is undefined 
+robert klausner is 0.0 +
+robert dolan is 0.0 +
+robert brownlee is 0.0 +
+robert foster is 0.8536585365853658 +
+robert mastrocola is undefined 
+robert hochman is undefined 
+robert harris is 0.03474456490771148 +
+robert radasevich is undefined 
+robert peck is undefined 
+roberto lange is 0.0 +
+robinson everett is 0.3333333333333333 +
+roger greenberg is 0.13636363636363635 +
+ronald maines is undefined 
+ronald eisenberg is undefined 
+ronald mann is undefined 
+ronald nessim is 1.0 +
+ronald vanamberg is undefined 
+ronald molteni is 0.0 +
+ronnie mitchell is 0.0 +
+rosemary scapicchio is undefined 
+rosemary percival is undefined 
+ross moody is undefined 
+roy englert is undefined 
+ruth ginsburg is undefined 
+samuel alito is undefined 
+samuel issacharoff is undefined 
+samuel buffone is undefined 
+sandra oconnor is undefined 
+sarah bohr is undefined 
+scott makar is undefined 
+scott bullock is undefined 
+scott hunt is 0.0 +
+sean jordan is undefined 
+seth schalit is undefined 
+seth kupferberg is undefined 
+seth galanter is 0.0 +
+seth hufstedler is undefined 
+seth waxman is 0.0 +
+sharon samek is 0.0 +
+sri srinivasan is undefined 
+stephen bedrick is 0.0 +
+stephen bright is undefined 
+stephen mccullough is undefined 
+stephen breyer is undefined 
+stephen kissinger is undefined 
+stephen shapiro is 0.8834117361249145 +
+stephen mcallister is undefined 
+steven sherman is 0.0 +
+steven mercer is undefined 
+steven hubachek is undefined 
+stuart kirsch is undefined 
+stuart somach is 0.5714285714285714 +
+stuart riback is undefined 
+susan ullman is 0.0 +
+susan seitz is undefined 
+susan wagner is undefined 
+t kelly is undefined 
+tara allen is undefined 
+terence cassidy is undefined 
+terry boudreaux is undefined 
+theodore olson is 1.0 +
+theodore metzler is undefined 
+theodore allison is undefined 
+theresa wilson is undefined 
+thomas barnico is undefined 
+thomas goldstein is 0.0 +
+thomas caballero is undefined 
+thomas moseley is undefined 
+thomas gede is undefined 
+thomas hungar is 1.0 +
+thomas shipps is 0.0 +
+thomas davidson is 1.0 +
+thomas miller is 0.3817612848267006 +
+thomas casey is 0.2608695652173913 +
+thomas fisher is 0.11926456697421021 +
+thomas barnett is 0.5333333333333333 +
+thomas hillier is undefined 
+timothy dyk is undefined 
+timothy crooks is undefined 
+timothy kelly is 0.7091319052987599 +
+timothy bishop is 1.0 +
+timothy coates is undefined 
+toby heytens is 0.0 +
+todd vare is undefined 
+traci lovitt is 1.0 +
+troy giatras is 0.0 +
+unidentified justice is undefined 
+unidentified justice is undefined 
+verna williams is 0.0 +
+victor haltom is 0.0 +
+virginia seitz is 0.0 +
+w young is undefined 
+w plowden is undefined 
+walter dellinger is 0.0 +
+walter dellinger is 0.0 +
+walter hellerstein is undefined 
+walter rockler is undefined 
+wellon poe is undefined 
+wesley horton is undefined 
+william brown is 0.14473176379776148 +
+william collins is 0.17174515235457063 +
+william mallin is undefined 
+william reynolds is 0.8410404624277457 +
+william coston is 0.0 +
+william sullivan is 0.8265895953757225 +
+william rehnquist is undefined 
+william boyce is 1.0 +
+william kayatta is 0.0 +
+william jay is undefined 
+william smiland is undefined 
+willis goldsmith is 0.7159090909090909 +
