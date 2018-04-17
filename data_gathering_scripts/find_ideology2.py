@@ -2,9 +2,9 @@
 
 import csv
 
-DONATIONS_CSV = "contriblawyers.csv"
+DONATIONS_CSV = "contriblawyers_from_presidential.csv"
 PEOPLE_FILE = "listpeople.txt"
-LOG_FILE = "results.txt"
+LOG_FILE = "results_ideologt_from_presidential.txt"
 
 
 log = open(LOG_FILE, "w")
