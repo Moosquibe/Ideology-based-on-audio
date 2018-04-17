@@ -1,5 +1,7 @@
 # encoding: utf-8
 
+# Extract the lawyers from the donation dataset, to avoid looping on a huuuge file
+
 import csv
 
 DONATIONS_CSV = "/Users/thomasl/Documents/GitHub/contribDB_president.csv"

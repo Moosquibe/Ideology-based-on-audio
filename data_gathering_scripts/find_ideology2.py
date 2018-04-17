@@ -1,5 +1,7 @@
 # encoding: utf-8
 
+# Find ideology from a donation dataset
+
 import csv
 
 DONATIONS_CSV = "contriblawyers_from_presidential.csv"

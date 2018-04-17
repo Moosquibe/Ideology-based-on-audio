@@ -1,4 +1,7 @@
 # encoding: utf-8
+
+# Write down the list of people who say something in the hearing dataset
+
 import os
 
 input_file = "/data/WorkData/ideology_from_audio/RESULTS/wordssyllablesformants.txt"

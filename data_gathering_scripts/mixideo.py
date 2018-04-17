@@ -1,4 +1,7 @@
  # encoding: utf-8
+
+# Simply to combine ideologies obtained in two different datasets (2008 all elections and presidential, all years)
+
 file_1 = "ideology.txt"
 file_2 = "results_ideology_from_presidential.txt"
 PEOPLE_FILE = "listpeople.txt"
