@@ -1,4 +1,8 @@
 # encoding: utf-8
+
+# Find the list of the words that are pronounced in the hearing
+# Keep only the one that are said more than 100 times
+
 import os
 
 input_file = "/data/WorkData/ideology_from_audio/RESULTS/wordssyllablesformants.txt"

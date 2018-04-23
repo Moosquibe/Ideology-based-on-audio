@@ -1,9 +1,11 @@
 # encoding: utf-8
 
+# Extract the lawyers from the donation dataset, to avoid looping on a huuuge file
+
 import csv
 
-DONATIONS_CSV = "/Users/thomasl/Desktop/contribDB_2008.csv"
-DONATIONS_LAWYERS = "contriblawyers.csv"
+DONATIONS_CSV = "/Users/thomasl/Documents/GitHub/contribDB_president.csv"
+DONATIONS_LAWYERS = "contriblawyers_from_presidential.csv"
 
 file_donations=open(DONATIONS_CSV, 'r')
 file_contributions=open(DONATIONS_LAWYERS, 'w')
