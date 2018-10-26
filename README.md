@@ -8,4 +8,4 @@ Our living breathing Google Doc is [here](https://docs.google.com/document/d/1v6
 
 After submitting our work for the Machine Learning Class, Yassine Kadiri pursued the work over the summer with Professors Ash and Chen in order to produce publishable work.
 
-At first, we had chosen a limited set of words to train our models, in order to have more interpretable results  but over the summer we made the choice to train our models over all the words from our dataset. This work can be found in gathered_data/Regression_all_words.ipynb.
+At first, we had chosen a limited set of words to train our models, in order to have more interpretable results  but over the summer we made the choice to train our models over all the words from our dataset. This work can be found in data_gathering_scripts/gathered_data/Regression_all_words.ipynb.
